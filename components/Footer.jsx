@@ -14,7 +14,7 @@ const Footer = () => (
             Copyright © {new Date().getFullYear()} Marveeen
         </Box>
         <Link href='https://github.com/Marveeeen' passHref>
-            <FaGithub cursor='pointer' />
+            <a><FaGithub cursor='pointer' /></a>
         </Link>
     </Flex>
 )
