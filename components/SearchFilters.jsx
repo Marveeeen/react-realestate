@@ -86,7 +86,10 @@ const SearchFilters = () => {
                                 right='5'
                                 top='5'
                                 zIndex='100'
-                                onClick={() => setSearchTerm('')}
+                                onClick={() => {
+                                    setSearchTerm('') 
+                                    setLocationData()
+                                }}
                             />
                         )}
                         {loading && <Spinner margin='auto' marginTop='3' />}
