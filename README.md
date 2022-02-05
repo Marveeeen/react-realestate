@@ -8,8 +8,8 @@ Build and Deploy an Real Estate Application Bayut API, Charkar-UI and Next.js
 **Live Link:** [Realtor](https://maveeen-react-realestate.vercel.app/)
 
 ## Features
-    * Fetching Real Estate Data
-    * Data Filtering
+Markup:* Fetching Real Estate Data
+      * Data Filtering
 
 ## Setup:
     * Create a .env.local of your own and include the API for BAyut
