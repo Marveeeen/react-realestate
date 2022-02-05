@@ -1,7 +1,5 @@
 #REALTOR
 
-![REALTOR](assets/images/README.png)
-
 ##Introduction
 Build and Deploy an Real Estate Application Bayut API, Charkar-UI and Next.js
 
