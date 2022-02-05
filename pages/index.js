@@ -25,7 +25,6 @@ const Banner = ({ purpose, title1, title2, desc1, desc2, linkName, buttonText, i
 )
 
 const Home = ({ propertyForRent, propertyForSale }) => {
-  console.log({propertyForRent, propertyForSale})
 
   return (
     <Box>
